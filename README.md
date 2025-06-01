@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Veeramani Kayathri
 - 👀 I’m interested in developing sites.
-- 🌱 I’m currently learning Full stack development. 
+- 🌱 Proficient in front-end development technologies including HTML, CSS, JavaScript, jQuery, Bootstrap, and ES6. Experienced in providing technical support via chat/email and remote channels. Adept at addressing 
+      user queries across social media and community forums. Seeking to enhance technical skills for career advancement.
 - 📫 Reach me at kayathrisivakumar@gmail.com
 
 <!---
